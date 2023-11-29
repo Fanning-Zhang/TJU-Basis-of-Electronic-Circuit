@@ -5,10 +5,11 @@
 - [模电复习指南](https://fanningzhang.tech/电子线路线性部分天津大学模电复习指南)
 
 ## 资料下载方法
-- 网页端：请点击右上角的绿色按钮 <span style="background-color: lightgreen"><> Code</span> ，选择 <span style="background-color: lightgreen">Download ZIP</span> 下载全部文件。
-- 手机端：请在下方目录中点击要下载的文件，进入文件页面后点击 <span style="background-color: lightgreen">Download</span> 下载单个文件。
+- 网页端：请点击右上角的绿色按钮 “<> Code”，选择 “Download ZIP” 下载全部文件。
+- 手机端：请在下方目录中点击要下载的文件，进入文件页面后点击 “main” 旁边的 “···” ，选择 “Download” 下载单个文件。
 
 ## 目录
+- [模电学业辅导讲义2023年秋.pdf]()
 - [电子线路（线性部分）第五版 学习指导与习题详解.pdf](./电子线路（线性部分）第五版%20学习指导与习题详解.pdf)
 - [电子线路复习指南 吴岳峰.pdf](./电子线路复习指南%吴岳峰.pdf)
 
